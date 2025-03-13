@@ -1,4 +1,4 @@
-package Clase;
+package Registry.Clase;
 
 import java.util.HashMap;
 import java.util.Map;

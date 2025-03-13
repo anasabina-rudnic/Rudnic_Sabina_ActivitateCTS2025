@@ -1,4 +1,4 @@
-package Clase;
+package Eager_Initialization.Clase;
 
 public class AgentieImobiliara {
     private String nume;

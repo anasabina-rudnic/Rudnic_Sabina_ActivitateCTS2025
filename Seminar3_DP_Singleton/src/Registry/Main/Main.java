@@ -1,7 +1,7 @@
-package Main;
+package Registry.Main;
 
-import Clase.AgentieImobiliara;
-import Clase.Anunt;
+import Registry.Clase.AgentieImobiliara;
+import Registry.Clase.Anunt;
 
 public class Main {
     public static void main(String[] args) {

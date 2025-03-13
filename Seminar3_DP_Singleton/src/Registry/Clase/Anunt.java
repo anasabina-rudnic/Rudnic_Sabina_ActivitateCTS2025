@@ -1,4 +1,4 @@
-package Clase;
+package Registry.Clase;
 
 public class Anunt {
     private String adresa;

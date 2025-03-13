@@ -1,6 +1,6 @@
-package Main;
+package Lazy_Initialization.Main;
 
-import Clase.AgentieImobiliara;
+import Lazy_Initialization.Clase.AgentieImobiliara;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package Main;
+package Eager_Initialization.Main;
 
-import Clase.AgentieImobiliara;
+import Eager_Initialization.Clase.AgentieImobiliara;
 
 public class Main {
     public static void main(String[] args) {
