@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CTS2025_SabinaRudnic.iml" filepath="$PROJECT_DIR$/CTS2025_SabinaRudnic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3_DP_Singleton/Eager_Initialization/Eager_Initialization.iml" filepath="$PROJECT_DIR$/Seminar3_DP_Singleton/Eager_Initialization/Eager_Initialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3_DP_Singleton/Lazy_Initialization/Lazy_Initialization.iml" filepath="$PROJECT_DIR$/Seminar3_DP_Singleton/Lazy_Initialization/Lazy_Initialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3_DP_Singleton/Thread_Safe/Registry.iml" filepath="$PROJECT_DIR$/Seminar3_DP_Singleton/Thread_Safe/Registry.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1_RECAPITULARE/Seminar1_RECAPITULARE.iml" filepath="$PROJECT_DIR$/Seminar1_RECAPITULARE/Seminar1_RECAPITULARE.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2_CleanCode/Seminar2_CleanCode.iml" filepath="$PROJECT_DIR$/Seminar2_CleanCode/Seminar2_CleanCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3_DP_Singleton/Seminar3_DP_Singleton.iml" filepath="$PROJECT_DIR$/Seminar3_DP_Singleton/Seminar3_DP_Singleton.iml" />

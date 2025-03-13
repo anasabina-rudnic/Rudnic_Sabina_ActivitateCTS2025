@@ -5,7 +5,7 @@ public class AgentieImobiliara {
     private int nrAnunturi;
     private String site;
     private float cifraAfaceri;
-    private static AgentieImobiliara agentieImobiliara = new AgentieImobiliara("Agentie", 10, "agentie.com", 12000);
+    private static AgentieImobiliara agentieImobiliara = null;
 
     private AgentieImobiliara(String nume, int nrAnunturi, String site, float cifraAfaceri) {
         this.nume = nume;
@@ -14,7 +14,11 @@ public class AgentieImobiliara {
         this.cifraAfaceri = cifraAfaceri;
     }
 
-    public static AgentieImobiliara getAgentieImobiliara() {
+    public static AgentieImobiliara getAgentieImobiliara(String nume, int nrAnunturi, String site, float cifraAfaceri) {
+        if (agentieImobiliara == null) {
+            agentieImobiliara = new AgentieImobiliara(nume, nrAnunturi, site, cifraAfaceri);
+        }
+
         return agentieImobiliara;
     }
 
