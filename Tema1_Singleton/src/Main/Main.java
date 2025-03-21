@@ -3,6 +3,8 @@ package Main;
 import Clase.Examen;
 import Clase.SustinereExamen;
 
+import java.sql.PseudoColumnUsage;
+
 public class Main {
     public static void main(String[] args) {
         SustinereExamen sustinereExamen = new SustinereExamen(5);

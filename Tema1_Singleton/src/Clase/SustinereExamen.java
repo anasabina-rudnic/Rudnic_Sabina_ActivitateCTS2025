@@ -19,6 +19,6 @@ public class SustinereExamen {
             System.out.println("Studentul " + student + " a sustinut deja examentul la " + examen.getMaterie());
         }
 
-        return examene.get(examen);
+        return examene.get(student);
     }
 }
