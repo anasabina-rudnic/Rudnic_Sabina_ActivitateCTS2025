@@ -1,4 +1,4 @@
-package factory;
+package fabrici;
 
 import clase.Supa;
 import clase.SupaCiuperci;

@@ -1,4 +1,4 @@
-package factory;
+package fabrici;
 
 public enum TipSupa {
     LEGUME,

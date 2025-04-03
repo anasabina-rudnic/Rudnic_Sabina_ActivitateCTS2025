@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar3_DP_Singleton/Seminar3_DP_Singleton.iml" filepath="$PROJECT_DIR$/Seminar3_DP_Singleton/Seminar3_DP_Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4_DP_Prototype/Seminar4_DP_Prototype.iml" filepath="$PROJECT_DIR$/Seminar4_DP_Prototype/Seminar4_DP_Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4_DP_SimpleFactory/Seminar4_DP_SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4_DP_SimpleFactory/Seminar4_DP_SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5_DP_Builder/Seminar5_DP_Builder.iml" filepath="$PROJECT_DIR$/Seminar5_DP_Builder/Seminar5_DP_Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5_DP_BuilderV2/Seminar5_DP_BuilderV2.iml" filepath="$PROJECT_DIR$/Seminar5_DP_BuilderV2/Seminar5_DP_BuilderV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5_DP_FactoryMethod/Seminar5_DP_FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5_DP_FactoryMethod/Seminar5_DP_FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tema1_Singleton/Tema1_Singleton.iml" filepath="$PROJECT_DIR$/Tema1_Singleton/Tema1_Singleton.iml" />
     </modules>
   </component>

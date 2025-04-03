@@ -1,8 +1,8 @@
 package main;
 
 import clase.Supa;
-import factory.Bucatarie;
-import factory.TipSupa;
+import fabrici.Bucatarie;
+import fabrici.TipSupa;
 
 public class Main {
     public static void main(String[] args) {
