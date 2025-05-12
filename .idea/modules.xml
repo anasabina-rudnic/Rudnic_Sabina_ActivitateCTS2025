@@ -12,7 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5_DP_BuilderV2/Seminar5_DP_BuilderV2.iml" filepath="$PROJECT_DIR$/Seminar5_DP_BuilderV2/Seminar5_DP_BuilderV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5_DP_FactoryMethod/Seminar5_DP_FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5_DP_FactoryMethod/Seminar5_DP_FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6_DP_Adaptor/Seminar6_DP_Adaptor.iml" filepath="$PROJECT_DIR$/Seminar6_DP_Adaptor/Seminar6_DP_Adaptor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Tema1_Singleton/Tema1_Singleton.iml" filepath="$PROJECT_DIR$/Tema1_Singleton/Tema1_Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar7_DP_Decorator/Seminar7_DP_Decorator.iml" filepath="$PROJECT_DIR$/Seminar7_DP_Decorator/Seminar7_DP_Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar7_DP_Facade/Seminar7_DP_Facade.iml" filepath="$PROJECT_DIR$/Seminar7_DP_Facade/Seminar7_DP_Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar7_DP_Proxy/Seminar7_DP_Proxy.iml" filepath="$PROJECT_DIR$/Seminar7_DP_Proxy/Seminar7_DP_Proxy.iml" />
     </modules>
   </component>
 </project>
