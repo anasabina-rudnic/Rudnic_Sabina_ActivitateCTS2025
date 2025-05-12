@@ -15,6 +15,9 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar7_DP_Decorator/Seminar7_DP_Decorator.iml" filepath="$PROJECT_DIR$/Seminar7_DP_Decorator/Seminar7_DP_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar7_DP_Facade/Seminar7_DP_Facade.iml" filepath="$PROJECT_DIR$/Seminar7_DP_Facade/Seminar7_DP_Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar7_DP_Proxy/Seminar7_DP_Proxy.iml" filepath="$PROJECT_DIR$/Seminar7_DP_Proxy/Seminar7_DP_Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8_DP_Composite/Seminar8_DP_Composite.iml" filepath="$PROJECT_DIR$/Seminar8_DP_Composite/Seminar8_DP_Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9_DP_Observer/Seminar9_DP_Observer.iml" filepath="$PROJECT_DIR$/Seminar9_DP_Observer/Seminar9_DP_Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9_DP_Strategy/Seminar9_DP_Strategy.iml" filepath="$PROJECT_DIR$/Seminar9_DP_Strategy/Seminar9_DP_Strategy.iml" />
     </modules>
   </component>
 </project>
