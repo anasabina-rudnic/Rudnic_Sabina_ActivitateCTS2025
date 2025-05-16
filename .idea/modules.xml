@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CTS2025_SabinaRudnic.iml" filepath="$PROJECT_DIR$/CTS2025_SabinaRudnic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10_DP_ChainOfResponsability/Seminar10_DP_ChainOfResponsability.iml" filepath="$PROJECT_DIR$/Seminar10_DP_ChainOfResponsability/Seminar10_DP_ChainOfResponsability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10_DP_Template/Seminar10_DP_Template.iml" filepath="$PROJECT_DIR$/Seminar10_DP_Template/Seminar10_DP_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1_RECAPITULARE/Seminar1_RECAPITULARE.iml" filepath="$PROJECT_DIR$/Seminar1_RECAPITULARE/Seminar1_RECAPITULARE.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2_CleanCode/Seminar2_CleanCode.iml" filepath="$PROJECT_DIR$/Seminar2_CleanCode/Seminar2_CleanCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3_DP_Singleton/Seminar3_DP_Singleton.iml" filepath="$PROJECT_DIR$/Seminar3_DP_Singleton/Seminar3_DP_Singleton.iml" />
